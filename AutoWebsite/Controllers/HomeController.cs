@@ -15,7 +15,7 @@ namespace AutoWebsite.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Yo = "ABOUT THE PG";
 
             return View();
         }
